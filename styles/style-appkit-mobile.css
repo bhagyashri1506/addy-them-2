@@ -1528,7 +1528,6 @@
 .t3 .page-title {
   display: flex;
   transition: all 300ms ease;
-  margin-top: 23px;
   margin-bottom: 30px;
 }
 
@@ -4761,7 +4760,7 @@
 }
 .t3 .input-style input{
   font-size: 15px;
-  color: white;
+  color: black;
 }
 
 .t3 .input-style select,
